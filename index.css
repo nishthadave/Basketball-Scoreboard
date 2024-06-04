@@ -1,0 +1,64 @@
+
+    body {
+        margin: 0;
+        text-align: center;
+    }
+    
+    .score {
+        background: #0a0001;
+        font-size: 90px;
+        color: #F94F6D;
+        width: 120px;
+        margin: 20px;
+    }
+    
+    .container {
+        display: flex;
+        justify-content: space-around;
+        width: 575px;
+        height: 385px;
+        top: -678px;
+        left: -1421px;
+        gap: 0px;
+        opacity: 0px;
+        background: rgba(27, 36, 74, 1);
+
+    }
+    
+    button {
+        background: none;
+    }
+
+.add-points-btns-home{
+    width: 155px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(154, 171, 216, 1);
+    border: 2px solid rgba(154, 171, 216, 1)
+
+}
+.home-score{
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 337px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(8, 0, 1, 1);
+}
+.guest-score{
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 337px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(8, 0, 1, 1);
+}
+
